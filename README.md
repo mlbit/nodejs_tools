@@ -7,7 +7,6 @@ Installation:
 
 Mac Os 
    1.  uninstall_node.sh -  it will delete the nodejs that was installed using the package. Run the command 
-     * Tested OS X (El Capitan) 
-     --*  Example :
-           $sudo sh uninstall_node.sh
+     * Example (Tested OS X El Capitan) :
+         * $ sudo sh uninstall_node.sh
    
